@@ -12,7 +12,10 @@
 *.lib
 
 # Executables
+*.pdb
+*.ilk
 *.exe
+test.txt
 
 # DUB
 .dub
